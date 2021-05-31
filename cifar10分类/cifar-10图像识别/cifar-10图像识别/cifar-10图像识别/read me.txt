@@ -1,0 +1,5 @@
+程序运行说明：
+1.点击CIFAR-10.py即可运行程序
+2.相应的python解释器需安装有tensorflow, urllib, os, tarfile, numpy, pickle, matplotlib, sklearn, time等库。
+
+程序功能：使用卷积神经网络对cifar-10数据集中包括的猫，狗，船，飞机等图片进行识别。
